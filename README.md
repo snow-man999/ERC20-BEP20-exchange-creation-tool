@@ -60,3 +60,5 @@ rsync -av --remove-source-files ./build/ ../
 cd ..
 rm -rf unifactory
 ```
+
+`If you have some questions in this project, feel free to reach out.`
